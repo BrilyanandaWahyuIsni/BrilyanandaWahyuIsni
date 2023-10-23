@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brilyanandawahyuisni&label=Profile%20views&color=0e75b6&style=flat" alt="brilyanandawahyuisni" /> </p>
 
--   🔭 saat ini saya sedang mengerjakan sebuah projek cakata **Cakata-cek kata**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
