@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Saya Brilyananda wahyu isni</h1>
+<h1 align="center">Hello, Nama Saya Brilyananda wahyu isni</h1>
 <h3 align="center">Saya seorang pemula dalam bidang pemrograman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brilyanandawahyuisni&label=Profile%20views&color=0e75b6&style=flat" alt="brilyanandawahyuisni" /> </p>
